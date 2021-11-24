@@ -38,9 +38,9 @@ cd drupal
 - ### open  " localhost/phpmyadmin 
   ![alt text](https://github.com/Ehab2311/Drupal/blob/main/PHP.png)
 - ### Create database "Drupal"
-  ![alt text](https://github.com/Ehab2311/Drupal/blob/main/PHP2.png)
+  
 - #### Open User account 
-  ![alt text](https://github.com/Ehab2311/Drupal/blob/main/add%202.png)
+ ![alt text](https://github.com/Ehab2311/Drupal/blob/main/data.gif)
    
 - #### Add User Account
   ![alt text](https://github.com/Ehab2311/Drupal/blob/main/add%20user%20account.png)
