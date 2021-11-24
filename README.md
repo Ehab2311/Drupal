@@ -27,6 +27,7 @@ cd drupal
 - ### open c\xampp\htdoc and delete the content 
 
 - ### EXTRACT drupal to c\xampp\htdoc\
+ ![alt text](https://github.com/Ehab2311/Drupal/blob/main/ext.gif)
 
 
 - ### Run on xampp 
